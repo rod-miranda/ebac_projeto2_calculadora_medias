@@ -99,3 +99,12 @@ table td img {
 .reprovado {
     background-color: red;
 }
+
+footer {
+    display: flex;
+    align-items: center;
+    margin-top: 64px;
+    margin-left: 30px;
+    width: 100%;
+    justify-content: center;
+}
